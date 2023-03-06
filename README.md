@@ -1,1 +1,1 @@
-frannjribatto.github.io
+frannjribatto.github.io/landing-page
