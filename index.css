@@ -43,7 +43,7 @@ body{
   display: none;
 }
 
-@media (min-width: 400px){
+@media (min-width: 360px){
   .menu{
     display: flex;
     flex-direction: row;
@@ -87,7 +87,7 @@ body{
   width: 300px;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 360px) {
   .bienvenida{
     display: flex;
     flex-direction: row;
@@ -148,7 +148,7 @@ body{
   margin-bottom: 10px;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 360px) {
   
 .presentacion{
   display: flex;
@@ -220,7 +220,7 @@ body{
   margin: 0 20px 20px ;
 }
 
-@media (min-width: 400px){
+@media (min-width: 360px){
 
   .servicios{
     display: grid;
@@ -328,7 +328,7 @@ body{
   color: white;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 360px) {
 
   .footer{
     display: flex;
